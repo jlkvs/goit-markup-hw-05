@@ -727,15 +727,15 @@ body {
     fill: transparent;
 }
 
-.checkbox-input:checked + .custom-checkbox-box {
+.checkbox-input:checked + label .custom-checkbox-box {
     background-color: #404bbf;
 }
 
-.checkbox-input:checked + .custom-checkbox-box {
+.checkbox-input:checked + label .custom-checkbox-box {
     border: none; 
 }
 
-.checkbox-input:checked + .custom-checkbox-box {
+.checkbox-input:checked + label .custom-checkbox-box .checkbox-icon {
     fill: #F4F4FD;
 }
 
