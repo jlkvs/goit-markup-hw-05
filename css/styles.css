@@ -735,7 +735,7 @@ body {
     border: none; 
 }
 
-.checkbox-input:checked + label .custom-checkbox-box .checkbox-icon {
+.checkbox-input:checked + label .custom-checkbox-box {
     fill: #F4F4FD;
 }
 
